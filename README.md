@@ -1,4 +1,4 @@
-<h2>BankSystem</h2>
+# <h2>BankSystem</h2>
 In this project we used the following technologies:<br>
 # Back-end: Java Swing<br>
 # Database: MySql<br>
