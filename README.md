@@ -1,5 +1,5 @@
 # <h1>BankSystem</h1>
-In this project we used the following technologies:<br>
-# Back-end: Java Swing<br>
-# Database: MySql<br>
-<h3>You can download and follow the user instructions to be able to use the program.</h3>
+<h2>In this project we used the following technologies:<br></h2>
+<h3> Back-end: Java Swing</h3>
+<h3>Database: MySql</h3>
+<h2>You can download and follow the user instructions to be able to use the program.</h2>
